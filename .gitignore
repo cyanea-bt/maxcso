@@ -39,6 +39,7 @@
 *.exe
 *.out
 *.app
+/*.7z
 /maxcso
 
 # User setting files
